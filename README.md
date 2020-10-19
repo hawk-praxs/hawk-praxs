@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Machine Learning Engineer <in the making> and I love to code stuff.
+I am an aspiring Machine Learning Engineer and I love to code stuff. I am well versed in C, C++, Java, Python, R, Julia and MATLAB.
+I would love to collaborate with you! Hit me up on my email!
