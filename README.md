@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring Machine Learning Engineer and I love to code stuff. I am well versed in C, C++, Java, Python, R, Julia and MATLAB.
+I am an aspiring Machine Learning Engineer and I love to code stuff. I am well versed in C, C++, Java, Python, R, Julia, MySQL, NoSQL and MATLAB. I can also code in Assembly (x86_64 and ARM64 instruction sets). Currently, I am learning Web Development using JavaScript and React.
 
 I would love to collaborate with you! Hit me up on my email!
